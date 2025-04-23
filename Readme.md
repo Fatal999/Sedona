@@ -1,58 +1,24 @@
-# Личный проект «Седона» 
+<div id="header" align="center">
 
-* Студент: [Тимофей Свикша](https://up.htmlacademy.ru/adaptive/28/user/2152791).
-* Наставник: ` Александр Медведев `.
+  # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR6N2V1N3VoOHlwN3VmOWZqZm5waWdwbTM3d20wNzNpNnppd2ViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.gif" width="45"> Greetings, friend <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR6N2V1N3VoOHlwN3VmOWZqZm5waWdwbTM3d20wNzNpNnppd2ViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.gif" width="45">
+  <img src="build/img/icons/fatals-gif.gif" width="150" alt="Fatals gif"/>
 
----
+  <div id="badges">
+    <a href="https://t.me/euronymous_ts">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://www.instagram.com/fatal_1703?igsh=cGl2dHhoYmxteGJz&utm_source=qr">
+      <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://vk.com/fatal999">
+      <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&logoColor=white" alt="VK Badge"/>
+    </a>
+  </div>
 
-**Обратите внимание, что папка с вашими исходными файлами для работы над проектом — `source/`.**
+  <img src="https://komarev.com/ghpvc/?username=your-github-fatal999&style=flat-square&color=blue" alt="Statistics"/>
 
-Полезный файл:
+  ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> This is my study project
 
-- [Contributing.md](Contributing.md) — руководство по внесению изменений.
+  ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkwbHVxbGZuemxxbnh2azl5MnI1MjNlejRydXh4ZnVjNXkxNXU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Nn97Knvcol0rENwFk5/giphy.gif" width="35" height="35"> Stack: HTML, CSS, JS, Less, Gulp
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.github`, `.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `package.json`, `package-lock.json`._
-
----
-
-### Памятка
-
-#### 1. Зарегистрируйтесь на Гитхабе
-
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
-
-#### 2. Создайте форк
-
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-adaptive/2152791-sedona-28) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60807979-e1129f00-a18f-11e9-90d7-b44d2ff2c003.jpg">
-
-Получится вот так:
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60807980-e1129f00-a18f-11e9-8137-45876f130340.jpg">
-
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку «Code» в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60807982-e1129f00-a18f-11e9-98c4-0d3bf4b85cf1.jpg">
-
-Клонировать репозиторий можно так:
-
-```
-git clone SSH-адрес_вашего_форка
-```
-
-Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
-
----
-
-<a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
-
-Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Адаптивная вёрстка и автоматизация](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
-
-[check-image]: https://github.com/htmlacademy-adaptive/2152791-sedona-28/workflows/Project%20check/badge.svg?branch=master
-[check-url]: https://github.com/htmlacademy-adaptive/2152791-sedona-28/actions
+</div>

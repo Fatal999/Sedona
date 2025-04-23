@@ -61,10 +61,6 @@
   fill: #81b3d2;
 }
 
-.main-nav__toggle:hover+.main-nav__open {
-  display: block;
-}
-
 .main-nav__wrapper {
   min-height: 56px;
   width: 320px;
@@ -152,7 +148,10 @@
   position: absolute;
   top: 0;
   left: 0;
-  display: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .main-nav__open-list {
@@ -188,6 +187,7 @@
   color: @white;
   text-transform: uppercase;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .main-nav__open-button {

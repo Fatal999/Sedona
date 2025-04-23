@@ -6,7 +6,7 @@ import autoprefixer from 'autoprefixer';
 import browser from 'browser-sync';
 import htmlmin from 'gulp-htmlmin';
 import terser from 'gulp-terser';
-import squoosh from 'gulp-libsquoosh';
+// import squoosh from 'gulp-libsquoosh';
 import svgstore from 'gulp-svgstore';
 import svgo from 'gulp-svgo';
 import rename from 'gulp-rename';
@@ -37,16 +37,16 @@ const html = () => {
 // Scripts
 
 const script = () => {
-  return gulp.src('sourse/*.js')
+  return gulp.src('source/js/*.js')
   .pipe(terser())
-  .pipe(gulp.dest('build'));
+  .pipe(gulp.dest('build/js'));
 }
 
 //Images
 
 const optimizeImages = () => {
   return gulp.src('source/img/**/*.{jpg,png}')
-  .pipe (squoosh())
+  // .pipe (squoosh())
   .pipe(gulp.dest('build/img'));
 }
 
@@ -59,9 +59,9 @@ const copyImages = () => {
 
 const createWebP = () => {
   return gulp.src('source/img/**/*.{jpg,png}')
-  .pipe (squoosh({
-    webp: {}
-  }))
+  // .pipe (squoosh({
+  //   webp: {}
+  // }))
   .pipe(gulp.dest('build/img'));
 }
 
